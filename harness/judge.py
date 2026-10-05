@@ -13,10 +13,11 @@ import random
 from system.plumbing import with_retries
 from system.triage import DEFAULT_MODEL, POLICY
 
-# name -> a yes/no question a stranger could answer from the text alone. YOURS to extend.
+# name -> a yes/no question a stranger could answer from the text alone.
 RUBRIC = {
-    "agrees_with_action": "Does the rationale support the action that was actually taken, "
-                          "rather than a different action?",
+    "agrees_with_action": "Does the rationale support the action that was actually taken, rather than a different action?",
+    "policy_correct": "Does the rationale state the policy correctly, and does it follow the policy?",
+    "arithmetic_correct": "Does the rationale state the arithmetic correctly?",
 }
 
 INSTRUCTION = """You are checking the one-sentence rationale a support-triage system gave for a decision.

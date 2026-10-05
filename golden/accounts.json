@@ -108,5 +108,1041 @@
             }
         ],
         "open_refunds": []
+    },
+    "b012": {
+        "account_id": "A-012",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57012",
+                "total": 18.0,
+                "items": [
+                    "mug ($18)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b013": {
+        "account_id": "A-013",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57013",
+                "total": 29.0,
+                "items": [
+                    "phone stand ($29)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b014": {
+        "account_id": "A-014",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57014",
+                "total": 47.0,
+                "items": [
+                    "keyboard wrist rest ($47)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b015": {
+        "account_id": "A-015",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57015",
+                "total": 12.0,
+                "items": [
+                    "travel pillow ($12)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b016": {
+        "account_id": "A-016",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57016",
+                "total": 44.0,
+                "items": [
+                    "notebook ($44)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b017": {
+        "account_id": "A-017",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57017",
+                "total": 72.0,
+                "items": [
+                    "bluetooth speaker ($72)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b018": {
+        "account_id": "A-018",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57018",
+                "total": 95.0,
+                "items": [
+                    "backpack ($95)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b019": {
+        "account_id": "A-019",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57019",
+                "total": 199.0,
+                "items": [
+                    "monitor ($199)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b020": {
+        "account_id": "A-020",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57020",
+                "total": 120.0,
+                "items": [
+                    "headphones ($120)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b021": {
+        "account_id": "A-021",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57021",
+                "total": 68.0,
+                "items": [
+                    "coffee maker ($68)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b022": {
+        "account_id": "A-022",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57022",
+                "total": 320.0,
+                "items": [
+                    "dresser ($320)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b023": {
+        "account_id": "A-023",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57023",
+                "total": 450.0,
+                "items": [
+                    "dining table ($450)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b024": {
+        "account_id": "A-024",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57024",
+                "total": 899.0,
+                "items": [
+                    "laptop ($899)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b025": {
+        "account_id": "A-025",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57025",
+                "total": 650.0,
+                "items": [
+                    "treadmill ($650)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b026": {
+        "account_id": "A-026",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57026",
+                "total": 1050.0,
+                "items": [
+                    "sectional sofa ($1050)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b027": {
+        "account_id": "A-027",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57027",
+                "total": null,
+                "items": [
+                    "hasn updated days"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b028": {
+        "account_id": "A-028",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57028",
+                "total": null,
+                "items": [
+                    "shipping address"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b029": {
+        "account_id": "A-029",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [],
+        "open_refunds": []
+    },
+    "b030": {
+        "account_id": "A-030",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57030",
+                "total": null,
+                "items": [
+                    "split into two"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b031": {
+        "account_id": "A-031",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57031",
+                "total": null,
+                "items": [
+                    "warranty period blender"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b032": {
+        "account_id": "A-032",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57032",
+                "total": 300.0,
+                "items": [
+                    "item ($300)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b033": {
+        "account_id": "A-033",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57033",
+                "total": 500.0,
+                "items": [
+                    "camera ($500)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b034": {
+        "account_id": "A-034",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57034",
+                "total": 280.0,
+                "items": [
+                    "bookshelf ($280)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b035": {
+        "account_id": "A-035",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57035",
+                "total": 700.0,
+                "items": [
+                    "tablet ($700)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b036": {
+        "account_id": "A-036",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57036",
+                "total": 410.0,
+                "items": [
+                    "recliner ($410)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b037": {
+        "account_id": "A-037",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57037",
+                "total": 51.0,
+                "items": [
+                    "desk lamp ($49)",
+                    "shipping ($2)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b038": {
+        "account_id": "A-038",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57038",
+                "total": 52.0,
+                "items": [
+                    "humidifier plus delivery ($46)",
+                    "shipping ($6)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b039": {
+        "account_id": "A-039",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57039",
+                "total": 52.0,
+                "items": [
+                    "fan ($43)",
+                    "shipping ($9)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b040": {
+        "account_id": "A-040",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57040",
+                "total": 52.99,
+                "items": [
+                    "mixer ($48)",
+                    "shipping ($4.99)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b041": {
+        "account_id": "A-041",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57041",
+                "total": 54.0,
+                "items": [
+                    "kettle ($39)",
+                    "shipping ($15)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b042": {
+        "account_id": "A-042",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57042",
+                "total": 7.0,
+                "items": [
+                    "pen set ($7)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b043": {
+        "account_id": "A-043",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57043",
+                "total": 15.0,
+                "items": [
+                    "mouse pad ($15)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b044": {
+        "account_id": "A-044",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57044",
+                "total": 22.0,
+                "items": [
+                    "contained notebook purchase ($22)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b045": {
+        "account_id": "A-045",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57045",
+                "total": 19.0,
+                "items": [
+                    "charging cable ($19)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b046": {
+        "account_id": "A-046",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57046",
+                "total": 50.0,
+                "items": [
+                    "scale ($50)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b047": {
+        "account_id": "A-047",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57047",
+                "total": 51.0,
+                "items": [
+                    "air purifier ($51)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b048": {
+        "account_id": "A-048",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57048",
+                "total": 150.0,
+                "items": [
+                    "item ($150)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b049": {
+        "account_id": "A-049",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57049",
+                "total": 89.0,
+                "items": [
+                    "gaming headset ($89)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b050": {
+        "account_id": "A-050",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57050",
+                "total": 175.0,
+                "items": [
+                    "monitor ($175)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b051": {
+        "account_id": "A-051",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57051",
+                "total": 200.0,
+                "items": [
+                    "vacuum ($200)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b052": {
+        "account_id": "A-052",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57052",
+                "total": null,
+                "items": [
+                    "invoice"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b053": {
+        "account_id": "A-053",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [],
+        "open_refunds": []
+    },
+    "b054": {
+        "account_id": "A-054",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57054",
+                "total": null,
+                "items": [
+                    "carrier delivering"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b055": {
+        "account_id": "A-055",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57055",
+                "total": null,
+                "items": [
+                    "cancelled"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b056": {
+        "account_id": "A-056",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [],
+        "open_refunds": []
+    },
+    "b057": {
+        "account_id": "A-057",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57057",
+                "total": 53.0,
+                "items": [
+                    "shipping maybe more ($45)",
+                    "shipping ($8)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b058": {
+        "account_id": "A-058",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57058",
+                "total": 53.0,
+                "items": [
+                    "lamp ($41)",
+                    "shipping ($12)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b059": {
+        "account_id": "A-059",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57059",
+                "total": 52.5,
+                "items": [
+                    "blender ($47)",
+                    "shipping ($5.50)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b060": {
+        "account_id": "A-060",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57060",
+                "total": 51.0,
+                "items": [
+                    "clock ($48)",
+                    "shipping ($3)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b061": {
+        "account_id": "A-061",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57061",
+                "total": 53.0,
+                "items": [
+                    "speaker shipping ($49)",
+                    "shipping ($4)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b062": {
+        "account_id": "A-062",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57062",
+                "total": 750.0,
+                "items": [
+                    "couch ($750)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b063": {
+        "account_id": "A-063",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57063",
+                "total": 275.0,
+                "items": [
+                    "item ($275)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b064": {
+        "account_id": "A-064",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57064",
+                "total": 900.0,
+                "items": [
+                    "no ($900)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b065": {
+        "account_id": "A-065",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57065",
+                "total": 340.0,
+                "items": [
+                    "item ($340)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b066": {
+        "account_id": "A-066",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57066",
+                "total": 600.0,
+                "items": [
+                    "bed frame ($600)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b067": {
+        "account_id": "A-067",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57067",
+                "total": null,
+                "items": [
+                    "don remember paid"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b068": {
+        "account_id": "A-068",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57068",
+                "total": null,
+                "items": [
+                    "get money"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b069": {
+        "account_id": "A-069",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57069",
+                "total": null,
+                "items": [
+                    "there were not"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b070": {
+        "account_id": "A-070",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57070",
+                "total": null,
+                "items": [
+                    "don know amount"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b071": {
+        "account_id": "A-071",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57071",
+                "total": null,
+                "items": [
+                    "item"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b072": {
+        "account_id": "A-072",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57072",
+                "total": 31.0,
+                "items": [
+                    "bottle ($31)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b073": {
+        "account_id": "A-073",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57073",
+                "total": 24.0,
+                "items": [
+                    "lunchbox ($24)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b074": {
+        "account_id": "A-074",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57074",
+                "total": 16.0,
+                "items": [
+                    "flashlight ($16)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b075": {
+        "account_id": "A-075",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57075",
+                "total": 39.0,
+                "items": [
+                    "cutting board ($39)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b076": {
+        "account_id": "A-076",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57076",
+                "total": 11.0,
+                "items": [
+                    "organizer ($11)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b077": {
+        "account_id": "A-077",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57077",
+                "total": 140.0,
+                "items": [
+                    "router ($140)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b078": {
+        "account_id": "A-078",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57078",
+                "total": 85.0,
+                "items": [
+                    "drill ($85)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b079": {
+        "account_id": "A-079",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57079",
+                "total": 105.0,
+                "items": [
+                    "monitor arm ($105)"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b080": {
+        "account_id": "A-080",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57080",
+                "total": null,
+                "items": [
+                    "item"
+                ]
+            }
+        ],
+        "open_refunds": []
+    },
+    "b081": {
+        "account_id": "A-081",
+        "status": "active",
+        "tenure_months": 6,
+        "recent_orders": [
+            {
+                "order_id": "O-57081",
+                "total": null,
+                "items": [
+                    "confusing"
+                ]
+            }
+        ],
+        "open_refunds": []
     }
 }

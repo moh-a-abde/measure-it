@@ -408,9 +408,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57032",
-                "total": 300.0,
+                "total": 18.0,
                 "items": [
-                    "item ($300)"
+                    "mug ($18)"
                 ]
             }
         ],
@@ -423,9 +423,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57033",
-                "total": 500.0,
+                "total": 96.0,
                 "items": [
-                    "camera ($500)"
+                    "headphones ($96)"
                 ]
             }
         ],
@@ -438,9 +438,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57034",
-                "total": 280.0,
+                "total": 24.0,
                 "items": [
-                    "bookshelf ($280)"
+                    "notebook ($24)"
                 ]
             }
         ],
@@ -468,9 +468,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57036",
-                "total": 410.0,
+                "total": 16.0,
                 "items": [
-                    "recliner ($410)"
+                    "phone case ($16)"
                 ]
             }
         ],
@@ -867,9 +867,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57063",
-                "total": 275.0,
+                "total": 120.0,
                 "items": [
-                    "item ($275)"
+                    "jacket ($120)"
                 ]
             }
         ],
@@ -882,9 +882,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57064",
-                "total": 900.0,
+                "total": 12.0,
                 "items": [
-                    "no ($900)"
+                    "charging cable ($12)"
                 ]
             }
         ],
@@ -897,9 +897,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57065",
-                "total": 340.0,
+                "total": 150.0,
                 "items": [
-                    "item ($340)"
+                    "monitor ($150)"
                 ]
             }
         ],
@@ -912,9 +912,9 @@
         "recent_orders": [
             {
                 "order_id": "O-57066",
-                "total": 600.0,
+                "total": 180.0,
                 "items": [
-                    "bed frame ($600)"
+                    "office chair ($180)"
                 ]
             }
         ],
@@ -929,7 +929,7 @@
                 "order_id": "O-57067",
                 "total": null,
                 "items": [
-                    "don remember paid"
+                    "bluetooth speaker"
                 ]
             }
         ],
@@ -944,7 +944,7 @@
                 "order_id": "O-57068",
                 "total": null,
                 "items": [
-                    "get money"
+                    "desk lamp"
                 ]
             }
         ],
@@ -959,7 +959,8 @@
                 "order_id": "O-57069",
                 "total": null,
                 "items": [
-                    "there were not"
+                    "mug",
+                    "notebook"
                 ]
             }
         ],
@@ -974,7 +975,7 @@
                 "order_id": "O-57070",
                 "total": null,
                 "items": [
-                    "don know amount"
+                    "hoodie"
                 ]
             }
         ],
@@ -989,7 +990,7 @@
                 "order_id": "O-57071",
                 "total": null,
                 "items": [
-                    "item"
+                    "phone case"
                 ]
             }
         ],

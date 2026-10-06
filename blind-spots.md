@@ -1,6 +1,6 @@
 # Blind spots
 
-What this harness cannot see. Short on purpose. The five runs are in. The hand labels are not.
+What this harness cannot see. The five runs are in. The hand labels are not.
 
 ## Ambiguous tickets
 
@@ -9,6 +9,8 @@ Nine tickets have `ambiguous: true`, and each carries `failure-risk:ambiguity`. 
 - `g009`. The account lamp is $38, the ticket adds $14.99 shipping and "something for the hassle." The label is `hold` at $52.99. The hassle line can be read as an unclear amount, which is `escalate`. It was right all five baseline runs and wrong 4 of 5 once the policy was the system instruction.
 - `g041` and `g058` are wrong every baseline run. The stated prices sum just over $50, and the ticket also asks for something extra. The label is `hold` at the stated sum. `g057` is the same shape and was not in the always-wrong list.
 - `g067`–`g071` were right every run, 5/5 both ways. The harness graded `escalate`. A guessed refund is still the other reading. The pass is the label, not evidence that a missing price was understood.
+
+
 
 ## The judge
 
@@ -25,3 +27,4 @@ Nine tickets have `ambiguous: true`, and each carries `failure-risk:ambiguity`. 
 - The new accounts have empty `open_refunds`. The shipped `open-refund` account is the only one that does not. A closed account, a refund already pending on that order, a ticket in another language, and two orders in one ticket are still untested.
 - Anything after the JSON. The harness never sees whether money moved, whether a person took the hold, or whether the customer got the answer. A perfect `action` score can still sit in front of a payment path. The cap belongs in that path. This suite only scores the proposal.
 - Any model other than `gemini-3.1-flash-lite` at the provider's default temperature, and any edit to `POLICY`. Both are pinned. A result here does not travel.
+

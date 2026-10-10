@@ -14,9 +14,9 @@ The rest of this section is empty on purpose. Two of us still have to label 30 r
 
 | Question | Both yes | We yes, judge no | We no, judge yes | Both no |
 |---|---|---|---|---|
-| `agrees_with_action` | | | | |
-| `policy_correct` | | | | |
-| `arithmetic_correct` | | | | |
+| `agrees_with_action` |23 |2 |2 |3 |
+| `policy_correct` |22 |1 |0 |7 |
+| `arithmetic_correct` |25 |0 |4 |1 |
 
 ## Noise floor
 

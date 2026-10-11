@@ -1,6 +1,6 @@
 # Blind spots
 
-What this harness cannot see. The five runs are in. The hand labels are not.
+What this harness cannot see. The five runs are in. The hand labels for thirty run-1 rationales are in `judge-validation.csv`.
 
 ## Ambiguous tickets
 
@@ -16,7 +16,11 @@ Nine tickets have `ambiguous: true`, and each carries `failure-risk:ambiguity`. 
 
 `RUBRIC` in `harness/judge.py` asks three yes/no questions: `agrees_with_action`, `policy_correct`, `arithmetic_correct`. The rubric is the system instruction. The rationale is the user text. `score_rationale` passes only when all three are true.
 
-347 of 400 baseline rationales have a verdict. Run 5 stopped at 27. No person has labeled any of them, and the judge has not been run three times on the same 30. The failure modes below are still predictions, not findings: a fluent sentence that names the wrong cap; "under $50" when the sum is over; `arithmetic_correct` forced to yes or no when the sentence has no numbers, which is the `amount:unknown` slice. On the judged lines the unchecked judge passes 71/80, 72/80, 72/80, 72/80, and 24/27. That rate is an opinion until the hand labels exist.
+400 of 400 baseline rationales have a verdict. The pass rates are 71/80, 72/80, 72/80, 72/80, and 74/80.
+
+The hand labels are thirty run-1 rationales, reconciled, compared with judge-run 1. The disagreements are in `report.md`. On `g003` and `g011` the sentence supports the refund that was taken, and the judge said no: it graded the policy. On `g037`, `g039`, `g051`, and `g059` the numbers in the sentence are true, and the judge said `arithmetic_correct` yes, including where the sentence then crosses the cap. `g034` is the one `policy_correct` miss the other way. `g010` is the false "within $50" that both catch. `intent:question` is one ticket in the thirty.
+
+judge-run 1 through 5 cover those same thirty tickets. The rationale text changed on every one of them, and on all 80 tickets in the suite, so those files are five samples. Three readings of one unchanged sentence would be the judge's own noise floor. Pairwise, on the thirty, with the sentence free to change, the files differ by at most 3 of 30 on `agrees_with_action`, 2 of 30 on `policy_correct`, and 3 of 30 on `arithmetic_correct`.
 
 ## Wrong in ways no ticket exercises
 
